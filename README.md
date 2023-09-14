@@ -1,5 +1,4 @@
 
-
 # Detecting Damaged Components of Rockets Using Deep Learning Model
 
 This project aims to develop a deep learning model for detecting damaged components of rockets. The model will analyze images of the rocket's components and determine whether they are damaged or not. The goal is to improve the safety and reliability of rockets by quickly identifying any potential issues.
